@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=2000&color=FF69B4&width=600&lines=Ciallo～(∠・ω< )⌒★ 我是+宇崎崎+🥰" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&size=28&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ciallo~我是宇崎崎🥰" alt="Typing SVG"/>
 </p>
+
 
 <p align="center">
   <img alt="avatar" width="140" src="./yuqiqi.jpg" style="border-radius:50%; box-shadow: 0 4px 16px rgba(0,0,0,0.15)"/>
