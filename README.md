@@ -19,4 +19,6 @@
 - **SkyTakeout** — 经典………………
 - **LoliBot** — 基于napcat的一个qq机器人琪琪捏（`Langchain4j`）
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
