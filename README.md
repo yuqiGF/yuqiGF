@@ -1,4 +1,3 @@
-<!-- 可爱的 README 开头（替换头像与名字） -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=2000&color=FF69B4&width=600&lines=Ciallo～(∠・ω< )⌒★ 我是+宇崎崎+🥰" alt="Typing SVG"/>
 </p>
@@ -30,17 +29,5 @@
 - **LoliBot** — 基于napcat的一个qq机器人琪琪捏（`Langchain4j`）
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiqi&layout=compact&theme=tokyonight)
 
-## 🎨 可爱小组件（把下面 Markdown 放到 README 中任意位置）
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuqiqi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiqi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuqiqi&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuqiqi&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</p>
