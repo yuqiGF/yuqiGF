@@ -28,6 +28,4 @@
 - **SkyTakeout** — 经典………………
 - **LoliBot** — 基于napcat的一个qq机器人琪琪捏（`Langchain4j`）
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiqi&layout=compact&theme=tokyonight)
 
