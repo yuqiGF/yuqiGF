@@ -13,11 +13,15 @@
 
 
 ## 一些超级入门的项目
-> 把下面 `项目名` / `链接` 替换成你真实的仓库
+
 
 - **loli** — 一个简单的超级ai智能体（`SpringAi`）
 - **SkyTakeout** — 经典………………
 - **LoliBot** — 基于napcat的一个qq机器人琪琪捏（`Langchain4j`）
+- **RotatingBaka** — 基于three.js的旋转baka页面显示
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuqiGF&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiGF&layout=compact" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
