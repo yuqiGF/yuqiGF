@@ -21,7 +21,7 @@
 - **RotatingBaka** — 基于three.js的旋转baka页面显示
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuqiGF&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiGF&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiGF&layout=compact&random=1" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2031%20mins-blue)
