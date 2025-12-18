@@ -20,13 +20,13 @@
 - **LoliBot** — 基于napcat的一个qq机器人琪琪捏（`Langchain4j`）
 - **RotatingBaka** — 基于three.js的旋转baka页面显示
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuqiGF&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" /> -->
 <p align="center">
   <a href="https://github.com/yuqiGF">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiGF&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=HWID,Spamware&card_width=300" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuqiGF&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiGF&layout=compact&langs_count=8&exclude_repo=HWID,Spamware&theme=default&hide_border=true&card_width=300" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuqiGF&show_icons=true&count_private=true&theme=default&hide_border=true" />
   </a>
 </p>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2028%20mins-blue)
