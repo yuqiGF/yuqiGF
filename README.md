@@ -22,8 +22,8 @@
 
 <p align="center">
   <a href="https://github.com/yuqiGF">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuqiGF&layout=compact&langs_count=8&exclude_repo=HWID,Spamware&theme=default&hide_border=true&card_width=300" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuqiGF&show_icons=true&count_private=true&theme=default&hide_border=true" /> 
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuqiGF&layout=compact&langs_count=8&exclude_repo=HWID,Spamware&theme=default&hide_border=true&card_width=300" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=yuqiGF&show_icons=true&count_private=true&theme=default&hide_border=true" /> 
   </a>
 </p>
 
